@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PANCHO\\source\\repos\\ClaculadoraSoap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3B82-0D23-4A4C-B0C5-101805CB2A5C}|ClaculadoraSoap\\ClaculadoraSoap.csproj|c:\\users\\pancho\\source\\repos\\claculadorasoap\\claculadorasoap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3B82-0D23-4A4C-B0C5-101805CB2A5C}|ClaculadoraSoap\\ClaculadoraSoap.csproj|solutionrelative:claculadorasoap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3B82-0D23-4A4C-B0C5-101805CB2A5C}|ClaculadoraSoap\\ClaculadoraSoap.csproj|c:\\users\\pancho\\source\\repos\\claculadorasoap\\claculadorasoap\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3B82-0D23-4A4C-B0C5-101805CB2A5C}|ClaculadoraSoap\\ClaculadoraSoap.csproj|solutionrelative:claculadorasoap\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\source\\repos\\ClaculadoraSoap\\ClaculadoraSoap\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "ClaculadoraSoap\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\source\\repos\\ClaculadoraSoap\\ClaculadoraSoap\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "ClaculadoraSoap\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:11:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PANCHO\\source\\repos\\ClaculadoraSoap\\ClaculadoraSoap\\Program.cs",
+              "RelativeDocumentMoniker": "ClaculadoraSoap\\Program.cs",
+              "ToolTip": "C:\\Users\\PANCHO\\source\\repos\\ClaculadoraSoap\\ClaculadoraSoap\\Program.cs",
+              "RelativeToolTip": "ClaculadoraSoap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:10:35.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
